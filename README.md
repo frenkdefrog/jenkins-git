@@ -1,0 +1,2 @@
+# jenkins-git
+how to connect github to jenkins
